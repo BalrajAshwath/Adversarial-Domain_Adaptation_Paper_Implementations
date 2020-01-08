@@ -4,7 +4,7 @@ This repository is a collection of some unsupervised adversarial domain adaptati
 This repository is inspired by & heavily borrows code from - [
 pytorch-domain-adaptation](https://github.com/jvanvugt/pytorch-domain-adaptation).
 
-Currently, 3 popular Adversarial Domain Adaptation models are trained with MNIST and MNIST-M datasets as their source and target datasets. Visualization of activations and test results from target dataset for the 3 models are also provided using Jupyter Notebook. Ongoing work for adding more implementations of latest research papers in domain-adaptation to the repository.
+Currently, 3 popular Adversarial Domain Adaptation model implementations have been provided which were trained on MNIST and MNIST-M datasets as their source and target datasets. Visualization of activations and test results from target dataset for the 3 models are also provided using Jupyter Notebook. Ongoing work for adding more implementations of latest research papers in domain-adaptation to the repository.
 
 Please follow the installation instructions from the [parent repository](https://github.com/jvanvugt/pytorch-domain-adaptation).
 
